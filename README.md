@@ -18,7 +18,7 @@ So, for the training sample the big data set of voice of different emotions is n
  Toronto emotional speech set (Tess)
  But We use Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS).
 
-# Reasons to choose RAVDEES: (Tapaswi)
+# Reasons to choose RAVDEES: 
 It has got 2452 audio files, with 12 male speakers and 12 female speakers.
 The utterances of the speech are kept constant by speaking only 2 statements of equal lengths.
 It has 8 different emotions by all speakers.
@@ -52,6 +52,14 @@ Female, as the actor ID number is even.
 
 #Multilayer perceptron classifier: (Tapaswi)
 A multilayer perceptron (MLP) is a class of feedforward artificial neural network (ANN). The term MLP is used ambiguously, sometimes loosely to any feedforward ANN, sometimes strictly to refer to networks composed of multiple layers of perceptron’s (with threshold activation).
+
+
+
+![image](https://extrudesign.com/wp-content/uploads/2021/04/Speech-Emotion-Recognition-extrudesign.com-SC21025003.jpg?ezimgfmt=ng:webp/ngcb2)
+
+
+
+
 
  Multilayer perceptron’s are sometimes colloquially referred to as “vanilla” neural networks, especially when they have a single hidden layer.
 

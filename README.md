@@ -50,7 +50,8 @@ Statement “dogs” (02)
 12th Actor (12)
 Female, as the actor ID number is even.
 
-#Multilayer perceptron classifier: (Tapaswi)
+# Multilayer perceptron classifier: 
+
 A multilayer perceptron (MLP) is a class of feedforward artificial neural network (ANN). The term MLP is used ambiguously, sometimes loosely to any feedforward ANN, sometimes strictly to refer to networks composed of multiple layers of perceptron’s (with threshold activation).
 
 
